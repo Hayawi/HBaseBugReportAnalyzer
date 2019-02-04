@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/hayawi/hbase_bug_report_analyzer",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": []
+}
